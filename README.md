@@ -1,7 +1,7 @@
 # ITCS3162-Data-Visualization
 
 ## Overview
-### This project explores global happiness levels using data from the World Happiness Report. The goal is to clean and preprocess the dataset, analyze contributing factors to happiness, and create visualizations that reveal meaningful insights. The dataset includes indicators such as:
+#### This project explores global happiness levels using data from the World Happiness Report. The goal is to clean and preprocess the dataset, analyze contributing factors to happiness, and create visualizations that reveal meaningful insights. The dataset includes indicators such as:
 #### - Happiness Score
 #### - GDP per Capita
 #### - Social Support
