@@ -2,14 +2,14 @@
 
 ## Overview
 ### This project explores global happiness levels using data from the World Happiness Report. The goal is to clean and preprocess the dataset, analyze contributing factors to happiness, and create visualizations that reveal meaningful insights. The dataset includes indicators such as:
-#### Happiness Score
-#### GDP per Capita
-#### Social Support
-#### Healthy Life Expectancy
-#### Freedom
-#### Generosity
-#### Perceptions of Corruption
-#### Overall Country Ranking
+#### - Happiness Score
+#### - GDP per Capita
+#### - Social Support
+#### - Healthy Life Expectancy
+#### - Freedom
+#### - Generosity
+#### - Perceptions of Corruption
+#### - Overall Country Ranking
 
 ### Project Objectives
 #### 1. Data Cleaning: Handling missing values, fix inconsistent formatting, convert numerical values, standardize country names, remove duplicates
