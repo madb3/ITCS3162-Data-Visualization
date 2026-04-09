@@ -16,11 +16,11 @@
 #### 2. Data Analysis: Examine happiness score distributions, Identify key predictors of happiness
 #### 3. Visualization: Bar charts and scatterplots
 
-## Dataset
-### Source: https://www.kaggle.com/datasets/unsdsn/world-happiness
+### Dataset
+#### Source: https://www.kaggle.com/datasets/unsdsn/world-happiness
 
-## Tools and Libraries
-### Pandas: Data cleansing and preprocessing
-### NumPy: Mathematic operation
-### Matplotlib: Visualizations
-### Jupyter Notebook: Analysis
+### Tools and Libraries
+#### Pandas: Data cleansing and preprocessing
+#### NumPy: Mathematic operation
+#### Matplotlib: Visualizations
+#### Jupyter Notebook: Analysis
